@@ -1,0 +1,7 @@
+Z:\Documents\Visual Studio 2017\Projekty\Seminárka konzole exe\Seminárka konzole exe\obj\Debug\Seminárka konzole exe.csprojAssemblyReference.cache
+Z:\Documents\Visual Studio 2017\Projekty\Seminárka konzole exe\Seminárka konzole exe\obj\Debug\Seminárka konzole exe.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2017\Projekty\Seminárka konzole exe\Seminárka konzole exe\bin\Debug\Seminární práce - konzole - klimar.exe.config
+Z:\Documents\Visual Studio 2017\Projekty\Seminárka konzole exe\Seminárka konzole exe\bin\Debug\Seminární práce - konzole - klimar.exe
+Z:\Documents\Visual Studio 2017\Projekty\Seminárka konzole exe\Seminárka konzole exe\bin\Debug\Seminární práce - konzole - klimar.pdb
+Z:\Documents\Visual Studio 2017\Projekty\Seminárka konzole exe\Seminárka konzole exe\obj\Debug\Seminární práce - konzole - klimar.exe
+Z:\Documents\Visual Studio 2017\Projekty\Seminárka konzole exe\Seminárka konzole exe\obj\Debug\Seminární práce - konzole - klimar.pdb
